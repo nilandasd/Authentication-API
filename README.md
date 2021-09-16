@@ -1,4 +1,4 @@
-# validation-api
+# Authentication-api
 Server for registering, and authenticating users using JWTs. User names and passwords are stored using mongodb.
 
 The server requires a .env file that the defines the following variables:
